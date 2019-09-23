@@ -2,7 +2,7 @@
   "name": "monsters-rolodex",
   "version": "0.1.0",
   "private": true,
-  "homepage":"https://Dpartipilo.github.io/CompleteReactDev/monsters-rolodex",
+  "homepage":"https://Dpartipilo.github.io/monsters-rolodex",
   "dependencies": {
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
